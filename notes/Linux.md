@@ -119,6 +119,7 @@ info 与 man 类似，但是 info 将文档分成一个个页面，每个页面�
 -r ： 将系统的服务停掉后就重新启动
 -h ： 将系统的服务停掉后就立即关机
 -c ： 取消已经在进行的 shutdown 指令内容
+sudo shutdown -h now
 ```
 
 ## PATH
